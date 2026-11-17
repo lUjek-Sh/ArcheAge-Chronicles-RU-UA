@@ -1,0 +1,12 @@
+*.locres
+*.pak
+*.utoc
+*.ucas
+*.usmap
+*.x5tr
+*.key
+*.zip
+*.aac-tmp
+manifest.json
+X5/
+.DS_Store
