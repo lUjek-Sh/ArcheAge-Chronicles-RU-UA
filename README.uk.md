@@ -1,6 +1,16 @@
-# ArcheAge Chronicles — російський та український переклад
+<div align="center">
+
+# ArcheAge Chronicles
+
+### Російська й українська локалізація
+
+![Windows](https://img.shields.io/badge/Windows-PowerShell_5.1-0078D4?style=flat-square)
+![Languages](https://img.shields.io/badge/Languages-RU_%7C_UA-6756C9?style=flat-square)
+![Integrity](https://img.shields.io/badge/SHA256-verified-23836D?style=flat-square)
 
 **Мова:** [Русский](README.md) | Українська
+
+</div>
 
 Фанатська локалізація **ArcheAge Chronicles** для Steam. Завантажте готовий архів, виберіть мову та встановіть переклад за кілька натискань.
 
